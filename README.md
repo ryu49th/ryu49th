@@ -1,6 +1,6 @@
 # Hi there, I'm Thanunnop Chukiattakul 👋
 
-**Computer Engineering & Digital Technology (CEDT) Student | Robotics & Full-Stack Developer**
+**Computer Engineering & Digital Technology (CEDT) Student**
 
 I am a developer bridging the gap between **Web Technologies** and **Autonomous Robotics**. My work focuses on building intelligent systems—from AI-powered task management platforms to high-fidelity robotic simulations using ROS 2.
 
