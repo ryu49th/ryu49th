@@ -2,17 +2,13 @@
 
 **Computer Engineering & Digital Technology (CEDT) Student**
 
-I am a developer bridging the gap between **Web Technologies** and **Autonomous Robotics**. My work focuses on building intelligent systems—from AI-powered task management platforms to high-fidelity robotic simulations using ROS 2.
-
----
-
 ## 🛠️ Technical Skills
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Robotics & Simulation** |ROS 2 (Jazzy), Gazebo Harmonic, MoveIt 2, URDF/SRDF, Bullet Physics, PID Control |
+| **Robotics & Simulation** |ROS 2 (Jazzy), Gazebo Harmonic, MoveIt 2, URDF/SRDF |
 | **Backend & Cloud** |Node.js, Express, MongoDB, Docker, Python, PM2, Linux |
-| **Frontend & AI** |React.js, Computer Vision (YOLOv8), Vector Databases, AI Model Integration |
+| **Frontend & AI** |React.js, Computer Vision (YOLOv8), TailwindCSS|
 | **Tools** |Git/GitHub, Visual Studio Code, Docker Containers |
 
 ---
@@ -43,7 +39,7 @@ I am a developer bridging the gap between **Web Technologies** and **Autonomous 
 
 ### 🇹🇭 National
 * **Champion (Line Tracing Vision)** |*Maker Robotics Challenge 2024 International Open* 
-* **Champion (Maze Solver)** |*Maker Robotics Challenge 2022* [cite: 241]
+* **Champion (Maze Solver)** |*Maker Robotics Challenge 2022*
 * **Winner (Royal Trophy)** |*1st TO BE NUMBER ONE Youth Robotics Championship* 
 * **1st Runner-Up** |*TPA-OBEC Youth Robotics Competition 2023* (Robo Rescue)
 * **Gold Medal** |*World Robot Games (WRG) Thailand Championship 2022* 
@@ -59,4 +55,4 @@ I am a developer bridging the gap between **Web Technologies** and **Autonomous 
 ---
 
 Let's connect! 
-[Add your LinkedIn/Email/Social Links Here]
+https://www.linkedin.com/in/thanunnop-chukiattakul-b86715393/
