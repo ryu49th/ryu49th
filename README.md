@@ -1,5 +1,9 @@
 # Hi there, I'm Thanunnop Chukiattakul 👋
 
+##- 📄 [View Resume (PDF)](./resume.pdf)
+##- 📜 [View Certificates (PDF)](./cer.pdf)
+##- 🔗 [Connect on LinkedIn](https://www.linkedin.com/in/thanunnop-chukiattakul-b86715393/)
+
 **Computer Engineering & Digital Technology (CEDT) Student**
 
 ## 🛠️ Technical Skills
@@ -53,6 +57,3 @@
 **Workshop Participant:** Robotics & AI Ventures 2024 (KMITL).
 
 ---
-
-Let's connect! 
-https://www.linkedin.com/in/thanunnop-chukiattakul-b86715393/
