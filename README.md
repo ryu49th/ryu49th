@@ -1,10 +1,10 @@
 # Hi there, I'm Thanunnop Chukiattakul 👋
 
-## - 📄 [View Resume (PDF)](./resume.pdf)
-## - 📜 [View Certificates (PDF)](./cer.pdf)
-## - 🔗 [Connect on LinkedIn](https://www.linkedin.com/in/thanunnop-chukiattakul-b86715393/)
-
 **Computer Engineering & Digital Technology (CEDT) Student**
+
+### - 📄 [View Resume (PDF)](./resume.pdf)
+### - 📜 [View Certificates (PDF)](./cer.pdf)
+### - 🔗 [Connect on LinkedIn](https://www.linkedin.com/in/thanunnop-chukiattakul-b86715393/)
 
 ## 🛠️ Technical Skills
 
