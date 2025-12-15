@@ -1,6 +1,6 @@
 # Hi there, I'm Thanunnop Chukiattakul 👋
 
-**Computer Engineering & Digital Technology (CEDT) Student**
+**Computer Engineering & Digital Technology (CEDT) | Chulalongkorn University Student**
 
 ### - 📄 [View Resume (PDF)](./resume.pdf)
 ### - 📜 [View Certificates (PDF)](./cer.pdf)
